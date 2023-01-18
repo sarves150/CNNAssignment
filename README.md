@@ -48,7 +48,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 ## Acknowledgements
 Give credit here.
 - This project was inspired by upgrad...
-- References if any... [this tutorial](https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html).
+- References if any... [Melanoma](https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html).
 - This project was based on 
 
 
